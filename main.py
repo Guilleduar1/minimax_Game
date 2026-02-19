@@ -37,3 +37,6 @@ if __name__ == "__main__":
     print("Iniciando juego...")
 
     game_loop()
+
+
+print("Prueba de commit")
